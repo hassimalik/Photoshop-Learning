@@ -10,3 +10,11 @@
 - File management — Save PSD (editable) + JPG (final)
 
 `Practical: I resized and exported a LinkedIn banner-sized plus instagram post size image.`
+
+
+## Day 2 Summary: What I Learned
+- I learned histogram = brightness map. Left = blacks, Middle = skin tones, Right = whites.
+- I learned to judge professionally: My photo has spikes on both edges (dramatic) + smooth middle (skin) = professional exposure. No crushed blacks, no blown highlights = good.
+- I learned professionals measure first, manipulate second. - I can't Dodge/Burn if I don't know what "good" looks like.
+- I learned to avoid flat histograms (everything bunched in middle) = amateur, dull.
+- My photo = Already professional. Day 3 is enhancement, not fixing.
