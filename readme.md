@@ -27,3 +27,8 @@ You have to implement a dodge on cheeks edges and inside on center of forehead a
 - U have to burn on jawline the line separating the neck from face
 - U have to burn on eye sockets keeping shadows changed or selected 
 - Day 3 Complete
+
+
+## Day 4
+- I learnt two curves as red , and blue how to adjust curves of them.
+- I learnt at left highlights right shadows and mid are midtones. 
